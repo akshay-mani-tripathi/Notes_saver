@@ -1,4 +1,5 @@
 📒 notes_saver
+
 A simple, lightweight, and efficient paste/notes management application built with ReactJS. This app allows users to create, update, delete, copy, view, and share text pastes easily. All data is stored locally using the browser's localStorage, ensuring fast performance and offline availability.
 
 🚀 Features
