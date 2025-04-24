@@ -62,5 +62,3 @@ This project is open-source and available under the MIT License.
 
 🙌 Acknowledgments
 Inspired by tools like PasteBin and Note-taking apps with a minimalist, offline-first experience.
-
-Would you like a logo or banner image suggestion for this too? 👌
